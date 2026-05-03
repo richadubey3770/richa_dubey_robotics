@@ -1,0 +1,10 @@
+<svg width="720" height="480" viewBox="0 0 720 480" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="480" fill="#EDF4EF"/>
+  <rect x="70" y="90" width="580" height="280" rx="20" fill="#FFFFFF" stroke="#C8DDCE" stroke-width="3"/>
+  <circle cx="180" cy="220" r="46" fill="#9FC2AF"/>
+  <circle cx="300" cy="220" r="46" fill="#9FC2AF"/>
+  <circle cx="420" cy="220" r="46" fill="#9FC2AF"/>
+  <circle cx="540" cy="220" r="46" fill="#9FC2AF"/>
+  <rect x="140" y="140" width="420" height="18" rx="9" fill="#4E7B63"/>
+  <text x="360" y="430" text-anchor="middle" font-size="30" font-family="Inter, sans-serif" fill="#3F6551">Research Group</text>
+</svg>
