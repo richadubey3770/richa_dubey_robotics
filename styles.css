@@ -486,7 +486,6 @@ body {
 .hero .section__body > p:not(.lead) {
   margin: 0 0 0.95rem;
   font-size: var(--text-reading);
-  max-width: 40rem;
   line-height: 1.68;
 }
 
